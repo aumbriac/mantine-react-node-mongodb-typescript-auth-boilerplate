@@ -10,11 +10,13 @@ Features include:
 # How to use
 
 First, you need to create a `.env` file in the root of the directory with the following credentials:
+```
 DB_USER=YOUR_MONGODB_USER_HERE
 DB_PASSWORD=YOUR_MONGODB_PASSWORD_HERE
 DB_DATABASE=YOUR_MONGODB_DATABASE_NAME_HERE
 NODEMAILER_USER=YOUR_NODEMAILER_USER_HERE
 NODEMAILER_PASSWORD=YOUR_NODEMAILER_PASSWORD_HERE
+```
 
 **Be sure to replace all the values of the above key/value pairs**
 
