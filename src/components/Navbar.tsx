@@ -1,6 +1,4 @@
-import { Text, Navbar as MantineNavbar, useMantineColorScheme } from "@mantine/core";
-import { IconMoonStars, IconSun } from "@tabler/icons";
-import { useState } from "react";
+import { Text, Navbar as MantineNavbar } from "@mantine/core";
 
 export default function Navbar() {
 
