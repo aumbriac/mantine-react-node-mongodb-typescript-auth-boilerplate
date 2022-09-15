@@ -1,6 +1,6 @@
-# react-typescript-auth
+# mantine-react-node-mongodb-typescript-auth-boilerplate
 
-Mantine boilerplate for React/Node TypeScript applications with a MongoDB backend.
+Mantine (mantine.dev) boilerplate for MERN (MongoDB, Express, React, Node) TypeScript applications.
 
 Features include:
 • JWT implementation with refresh tokens
